@@ -1,0 +1,47 @@
+body{
+
+    font-family:  arial, serif;
+}
+
+h1{
+
+    color: Black;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+h2{
+
+    color: blue;
+    background-color: grey;
+    text-transform: capitalize;
+    text-align: left;
+}
+
+td{
+
+    color: Black;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+q{
+    color: black;
+    background-color: rosybrown;
+    text-transform: capitalize;
+    text-align: left;
+    margin: 40px;
+}
+
+#css{
+    background-color: bisque;
+}
+
+#valores{
+    background-color:goldenrod;
+}
+
+#td2 img{display:block; width:100%; height:auto;
+    
+
+}
